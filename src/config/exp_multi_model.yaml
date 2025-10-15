@@ -1,0 +1,69 @@
+# Multi-model configuration examples
+# Use these as templates for different model architectures
+
+# T5 variants
+t5_small:
+  model_name: t5-small
+  model_type: t5
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+
+t5_base:
+  model_name: t5-base
+  model_type: t5
+  learning_rate: 3.0e-5
+  train_batch_size: 4
+  gradient_accumulation_steps: 4
+
+# BART variants
+bart_base:
+  model_name: facebook/bart-base
+  model_type: bart
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+
+bart_large:
+  model_name: facebook/bart-large
+  model_type: bart
+  learning_rate: 3.0e-5
+  train_batch_size: 2
+  gradient_accumulation_steps: 8
+
+# GPT-2 variants
+gpt2:
+  model_name: gpt2
+  model_type: gpt2
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+
+gpt2_medium:
+  model_name: gpt2-medium
+  model_type: gpt2
+  learning_rate: 3.0e-5
+  train_batch_size: 4
+  gradient_accumulation_steps: 4
+
+# Controlled variants (with difficulty tokens)
+t5_small_controlled:
+  model_name: t5-small
+  model_type: t5
+  use_difficulty_token: true
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+  output_dir: outputs/controlled_t5_small
+
+bart_base_controlled:
+  model_name: facebook/bart-base
+  model_type: bart
+  use_difficulty_token: true
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+  output_dir: outputs/controlled_bart_base
+
+gpt2_controlled:
+  model_name: gpt2
+  model_type: gpt2
+  use_difficulty_token: true
+  learning_rate: 5.0e-5
+  train_batch_size: 8
+  output_dir: outputs/controlled_gpt2

@@ -1,0 +1,42 @@
+# Configuration for SQuAD small subset experiment
+
+# Data
+dataset_path: data/processed/squad_small.qg_labeled.jsonl
+dataset_name: squad_small
+
+# Model
+model_name: t5-small
+model_type: t5 # t5, bart, or gpt2
+use_difficulty_token: false
+
+# Training
+seed: 42
+max_source_length: 512
+max_target_length: 64
+train_batch_size: 8
+eval_batch_size: 16
+gradient_accumulation_steps: 2
+learning_rate: 5.0e-5
+num_train_epochs: 3
+warmup_ratio: 0.06
+weight_decay: 0.01
+
+# Optimization
+fp16: true
+dataloader_num_workers: 4
+
+# Checkpointing
+output_dir: outputs/baseline_t5_small_squad_small
+save_steps: 500
+eval_steps: 500
+save_total_limit: 2
+logging_steps: 100
+
+# Generation (for evaluation during training)
+num_beams: 5
+no_repeat_ngram_size: 2
+
+# Evaluation
+metric_for_best_model: eval_loss
+greater_is_better: false
+load_best_model_at_end: true

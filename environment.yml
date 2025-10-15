@@ -1,0 +1,27 @@
+name: qg-exp
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pytorch
+  - cudatoolkit=11.8 # Adjust based on your CUDA version, or omit for CPU-only
+  - pip
+  - pip:
+      - transformers>=4.44
+      - datasets>=2.20
+      - evaluate
+      - rouge-score
+      - sacrebleu
+      - sentencepiece
+      - accelerate
+      - peft
+      - bitsandbytes
+      - pandas
+      - numpy
+      - openpyxl
+      - matplotlib
+      - seaborn
+      - scikit-learn
+      - pyyaml
+      - tqdm

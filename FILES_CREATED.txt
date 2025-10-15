@@ -1,0 +1,85 @@
+QG EXPERIMENT - COMPLETE FILE MANIFEST
+=======================================
+
+ROOT LEVEL FILES (5)
+-------------------
+✓ environment.yml                    # Conda environment configuration
+✓ run_full_pipeline.sh              # Full automation script
+✓ smoke_test.sh                     # Quick validation script
+✓ IMPLEMENTATION_SUMMARY.md         # Implementation overview
+✓ QUICK_REFERENCE.md                # Command reference guide
+
+MODIFIED ROOT FILES (2)
+----------------------
+✓ requirements.txt                  # Updated with all dependencies
+✓ README.md                        # Comprehensive project documentation
+
+CONFIGURATION FILES (6)
+----------------------
+✓ src/config/__init__.py
+✓ src/config/exp_squad_small.yaml
+✓ src/config/exp_squad_small_controlled.yaml
+✓ src/config/exp_race_small.yaml
+✓ src/config/exp_race_small_controlled.yaml
+✓ src/config/exp_multi_model.yaml
+
+DATA PIPELINE (4)
+----------------
+✓ src/data/fetch_squad.py          # Download and convert SQuAD
+✓ src/data/fetch_race.py           # Download and convert RACE
+✓ src/data/make_subset.py          # Create stratified subsets
+✓ src/data/preprocess.py           # Add difficulty labels
+
+MODEL WRAPPERS (3)
+-----------------
+✓ src/models/__init__.py
+✓ src/models/baseline_llm.py       # T5/BART/GPT-2 wrapper
+✓ src/models/controlled_qg.py      # Difficulty-aware QG
+
+TRAINING SCRIPTS (3)
+-------------------
+✓ src/train/__init__.py
+✓ src/train/finetune_baseline.py   # Train baseline models
+✓ src/train/finetune_controlled.py # Train controlled models
+
+GENERATION (2)
+-------------
+✓ src/generate/__init__.py
+✓ src/generate/run_generate.py     # Batch question generation
+
+EVALUATION SUITE (5)
+-------------------
+✓ src/eval/__init__.py
+✓ src/eval/compute_bleu_rouge.py   # BLEU/ROUGE metrics
+✓ src/eval/qa_answerability.py     # QA model evaluation
+✓ src/eval/human_pack.py           # Human eval XLSX export
+✓ src/eval/aggregate.py            # Results aggregation + LaTeX
+
+UTILITY MODULES (4)
+------------------
+✓ src/__init__.py
+✓ src/utils/seed.py                # Reproducibility helpers
+✓ src/utils/metrics.py             # F1, EM, CI computation
+✓ src/utils/io_utils.py            # JSONL/JSON/YAML I/O (updated)
+
+DOCUMENTATION (2)
+----------------
+✓ paper/README.md                  # LaTeX integration guide
+✓ paper/                           # Directory for results.tex
+
+=======================================
+TOTAL NEW FILES:      32
+TOTAL MODIFIED FILES:  3
+TOTAL LINES OF CODE:   ~3200+
+=======================================
+
+IMPLEMENTATION STATUS: ✅ COMPLETE
+
+All components are implemented and ready for:
+• Data fetching and preprocessing
+• Model training (baseline + controlled)
+• Question generation with difficulty control
+• Automatic evaluation (BLEU/ROUGE/QA)
+• Human evaluation framework
+• Results aggregation and LaTeX export
+• Full pipeline automation
