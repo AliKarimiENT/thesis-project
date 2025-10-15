@@ -1,0 +1,7 @@
+Metric,Value
+BLEU,9.16
+ROUGE-1,0.3494
+ROUGE-2,0.1503
+ROUGE-L,0.3028
+Pred Length,14.8
+Ref Length,10.2

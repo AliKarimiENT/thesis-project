@@ -1,0 +1,64 @@
+============================================================
+QG EXPERIMENT - DETAILED ANALYSIS REPORT
+============================================================
+
+BASELINE MODEL
+------------------------------------------------------------
+Total predictions: 200
+  Easy: 63 (31.5%)
+  Medium: 81 (40.5%)
+  Hard: 56 (28.0%)
+Avg question length: 13.7 ± 6.3 words
+
+CONTROLLED MODEL
+------------------------------------------------------------
+Total predictions: 200
+  Easy: 63 (31.5%)
+  Medium: 81 (40.5%)
+  Hard: 56 (28.0%)
+Avg question length: 14.8 ± 6.6 words
+
+SAMPLE COMPARISONS (First 5)
+------------------------------------------------------------
+
+Example 1:
+  Context: The official record high temperature for Fresno is 115 °F (46.1 °C), set on July...
+  Answer: January 6, 1913
+  Reference: On what date was the record low temperature in Fresno?
+  Baseline: What is the official record low for Fresno?
+  Controlled: What is the official record low for Fresno?
+  Difficulty: easy
+
+Example 2:
+  Context: The Apollo program succeeded in achieving its goal of manned lunar landing, desp...
+  Answer: 1967
+  Reference: In what year did the Apollo 1 cabin fire occur?
+  Baseline: What was the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew?
+  Controlled: What was the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew?
+  Difficulty: medium
+
+Example 3:
+  Context: The Book of Discipline is the guidebook for local churches and pastors and descr...
+  Answer: nine
+  Reference: What is the greatest number of members a board of trustees can have?
+  Baseline: Who must have a board of trustees with at least three members and no more than nine members?
+  Controlled: Who must have a board of trustees with at least three members and no more than nine members?
+  Difficulty: easy
+
+Example 4:
+  Context: On the television side, in September 1969, ABC launched the Movie of the Week, a...
+  Answer: 1971
+  Reference: When did the Steven Spielberg movie Duel first debut?
+  Baseline: What did ABC launch in September 1969?
+  Controlled: What was The Movie of the Week aimed at capitalizing on the growing success of made-for-TV movies since the early 1960s?
+  Difficulty: medium
+
+Example 5:
+  Context: Free oxygen gas was almost nonexistent in Earth's atmosphere before photosynthet...
+  Answer: banded iron formations
+  Reference: At first, what did oxygen and iron combine to form?
+  Baseline: What oxygen produced by these organisms combined with dissolved iron in the oceans?
+  Controlled: For the first billion years, any free oxygen produced by these organisms combined with dissolved iron in the oceans to form banded iron formations?
+  Difficulty: medium
+
+============================================================

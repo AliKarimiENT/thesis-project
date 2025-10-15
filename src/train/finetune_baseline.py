@@ -145,7 +145,7 @@ def train_baseline(config_path: str):
         logging_steps=config.get('logging_steps', 100),
         save_steps=config['save_steps'],
         eval_steps=config['eval_steps'],
-        evaluation_strategy="steps",
+        eval_strategy="steps",
         save_strategy="steps",
         save_total_limit=config.get('save_total_limit', 2),
         load_best_model_at_end=config.get('load_best_model_at_end', True),

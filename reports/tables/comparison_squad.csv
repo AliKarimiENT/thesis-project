@@ -1,0 +1,9 @@
+Metric,System A (Baseline),System B (Controlled)
+--- Automatic Metrics ---,,
+BLEU,9.57,9.16
+ROUGE-1,0.3646,0.3494
+ROUGE-2,0.1564,0.1503
+ROUGE-L,0.3175,0.3028
+--- QA Answerability ---,,
+EM,0.1450,0.1100
+F1,0.2325,0.2107

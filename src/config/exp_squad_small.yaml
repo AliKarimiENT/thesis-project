@@ -22,8 +22,8 @@ warmup_ratio: 0.06
 weight_decay: 0.01
 
 # Optimization
-fp16: true
-dataloader_num_workers: 4
+fp16: false
+dataloader_num_workers: 0
 
 # Checkpointing
 output_dir: outputs/baseline_t5_small_squad_small

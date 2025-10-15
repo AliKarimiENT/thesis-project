@@ -1,0 +1,1809 @@
+{
+  "num_samples": 200,
+  "em_mean": 0.145,
+  "em_std": 0.352100837829165,
+  "f1_mean": 0.23251427738927738,
+  "f1_std": 0.37657977807633014,
+  "per_sample": [
+    {
+      "id": "5725f6e138643c19005acf1a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "17 °F",
+      "gold_answer": "January 6, 1913",
+      "pred_question": "What is the official record low for Fresno?",
+      "qa_score": 0.5821782946586609
+    },
+    {
+      "id": "5725b64d89a1e219009abd40",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "prelaunch test",
+      "gold_answer": "1967",
+      "pred_question": "What was the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew?",
+      "qa_score": 0.32006165385246277
+    },
+    {
+      "id": "5730cb8df6cb411900e244c4",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "All UM churches",
+      "gold_answer": "nine",
+      "pred_question": "Who must have a board of trustees with at least three members and no more than nine members?",
+      "qa_score": 0.7069505453109741
+    },
+    {
+      "id": "5727436af1498d1400e8f55a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Movie of the Week",
+      "gold_answer": "1971",
+      "pred_question": "What did ABC launch in September 1969?",
+      "qa_score": 0.6013156175613403
+    },
+    {
+      "id": "571cca4add7acb1400e4c152",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "free oxygen",
+      "gold_answer": "banded iron formations",
+      "pred_question": "What oxygen produced by these organisms combined with dissolved iron in the oceans?",
+      "qa_score": 0.6227313407871407
+    },
+    {
+      "id": "5710eb6fb654c5140001fa18",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "St. Augustine",
+      "gold_answer": "Parris Island",
+      "pred_question": "What was the outpost of Charlesfort on Parris Island, South Carolina?",
+      "qa_score": 0.017141930758953094
+    },
+    {
+      "id": "57373a9fc3c5551400e51e7b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "gauge bosons",
+      "gold_answer": "Standard Model",
+      "pred_question": "What is a Standard Model to describe forces between particles smaller than atoms?",
+      "qa_score": 0.24995703995227814
+    },
+    {
+      "id": "5726965ef1498d1400e8e485",
+      "em": 0,
+      "f1": 0.9333333333333333,
+      "qa_answer": "Court of Justice of the European Union",
+      "gold_answer": "the Court of Justice of the European Union",
+      "pred_question": "What is the main judicial body of the European Union?",
+      "qa_score": 0.3734952211380005
+    },
+    {
+      "id": "56f82549a6d7ea1400e17415",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "in the traditional salute of a knight winning a bout.\"",
+      "gold_answer": "raised his arm",
+      "pred_question": "What was Luther raised his arm at the end of this speech?",
+      "qa_score": 0.2509894073009491
+    },
+    {
+      "id": "57378c9b1c456719005744a8",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "electric current",
+      "gold_answer": "electric current",
+      "pred_question": "What is the time rate of change of electric charge?",
+      "qa_score": 0.4958946406841278
+    },
+    {
+      "id": "56e11cedcd28a01900c675eb",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Serbo-Croatian",
+      "gold_answer": "photographic memory",
+      "pred_question": "What was Tesla a polyglot, speaking eight languages: Serbo-Croatian, Czech, English, French, German, Hungarian, Italian, and Latin?",
+      "qa_score": 0.12814560532569885
+    },
+    {
+      "id": "57378862c3c5551400e51f21",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "the force on a spherical object of mass  due to the gravitational pull of mass",
+      "gold_answer": "Newton's Universal Gravitation Constant,",
+      "pred_question": "Newton's Law of Gravitation states that the force on a spherical object due to the gravitational pull of mass is universal.",
+      "qa_score": 0.010156248696148396
+    },
+    {
+      "id": "56d7251d0d65d214001983cd",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "preparing for the game.",
+      "gold_answer": "Peyton Manning",
+      "pred_question": "What was Peyton Manning (MVP of Super Bowl XLI and current Broncos quarterback) shown in the locker room preparing for the game?",
+      "qa_score": 0.04513707756996155
+    },
+    {
+      "id": "5726660d5951b619008f71b5",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Pons Aelius",
+      "gold_answer": "Pictish",
+      "pred_question": "What was the first recorded settlement in what is now Newcastle?",
+      "qa_score": 0.9804156973987119
+    },
+    {
+      "id": "5729d51d3f37b31900478590",
+      "em": 0,
+      "f1": 0.36363636363636365,
+      "qa_answer": "differences in value added",
+      "gold_answer": "value added by different classifications of workers",
+      "pred_question": "What does Neoclassical economics view inequalities in the distribution of income as arising from differences in value added by labor, capital and land?",
+      "qa_score": 0.27921903133392334
+    },
+    {
+      "id": "56bec1823aeaaa14008c9365",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "ESPN Deportes",
+      "gold_answer": "Spanish",
+      "pred_question": "What is the third dedicated Spanish-language broadcast of the Super Bowl?",
+      "qa_score": 0.15739881992340088
+    },
+    {
+      "id": "57300200b2c2fd140056872a",
+      "em": 0,
+      "f1": 0.4,
+      "qa_answer": "Islamic revolution",
+      "gold_answer": "an Islamic state",
+      "pred_question": "What was Maududi talking about?",
+      "qa_score": 0.9702147841453552
+    },
+    {
+      "id": "57277944f1498d1400e8f90a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "strong lineup of programs that contrasted with those seen on its rival networks",
+      "gold_answer": "counterprogramming",
+      "pred_question": "What kind of programs presented ABC with an image of the \"philosophy of counterprogramming against its competitors\"",
+      "qa_score": 0.19144369661808014
+    },
+    {
+      "id": "56f7f15aa6d7ea1400e172ef",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "Peter Lombard",
+      "gold_answer": "Sentences by Peter Lombard",
+      "pred_question": "Who received a bachelor's degree in Biblical studies in 1509?",
+      "qa_score": 0.9954521656036377
+    },
+    {
+      "id": "56e10296cd28a01900c67423",
+      "em": 0,
+      "f1": 0.8,
+      "qa_answer": "over 50",
+      "gold_answer": "over 50 letters",
+      "pred_question": "What letters did Tesla write to Morgan?",
+      "qa_score": 0.48360198736190796
+    },
+    {
+      "id": "57264845f1498d1400e8db0a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Jani Beg",
+      "gold_answer": "Genoese traders",
+      "pred_question": "Who was the first to introduce Plague to Europe via Genoese traders?",
+      "qa_score": 0.7833627671352588
+    },
+    {
+      "id": "57269d68708984140094cbd8",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Green Dining Room 1866–68",
+      "gold_answer": "Edward Burne-Jones",
+      "pred_question": "What was the work of Philip Webb and William Morris?",
+      "qa_score": 0.6204716563224792
+    },
+    {
+      "id": "57273f27dd62a815002e9a0b",
+      "em": 0,
+      "f1": 0.7142857142857143,
+      "qa_answer": "engineering, architecture) and construction managers",
+      "gold_answer": "construction service firms (e.g., engineering, architecture) and construction managers",
+      "pred_question": "What are also categories for construction service firms (e.g., engineering, architecture) and construction managers (firms engaged in managing construction projects without assuming direct financial responsibility for completion of the construction project).",
+      "qa_score": 0.32980209589004517
+    },
+    {
+      "id": "570d28bdb3d812140066d4a3",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Nationals",
+      "gold_answer": "Australian Labor Party",
+      "pred_question": "What is Labor strongest in Melbourne's working class western and northern suburbs?",
+      "qa_score": 0.4518725275993347
+    },
+    {
+      "id": "571153422419e3140095557e",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Matthew Murray",
+      "gold_answer": "Matthew Murray",
+      "pred_question": "Why was Salamanca used by the edge railed rack and pinion Middleton Railway?",
+      "qa_score": 0.37442195415496826
+    },
+    {
+      "id": "56f7ffadaef2371900625d5f",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Ninety-Five Theses",
+      "gold_answer": "Albert of Mainz",
+      "pred_question": "What was Luther's \"Disputation of Martin Luther on the Power and Efficacy of Indulgences\"?",
+      "qa_score": 0.9797988348072977
+    },
+    {
+      "id": "57297547af94a219006aa45e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "started with 1 as its first prime",
+      "gold_answer": "10,006,721",
+      "pred_question": "Was Derrick Norman Lehmer's list of primes up to 10,006,721 reprinted as late as 1956?",
+      "qa_score": 0.17794393002986908
+    },
+    {
+      "id": "57277de9dd62a815002e9ea4",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "do not receive an adequate signal from their market's primary ABC affiliate",
+      "gold_answer": "WFTS-TV and WWSB",
+      "pred_question": "What is the difference between WFTS-TV and WOTV?",
+      "qa_score": 0.08856773376464844
+    },
+    {
+      "id": "5729703d3f37b319004783bd",
+      "em": 0,
+      "f1": 0.5,
+      "qa_answer": "energized electrons",
+      "gold_answer": "energize electrons",
+      "pred_question": "What do Molecules in the thylakoid membrane use?",
+      "qa_score": 0.6974521279335022
+    },
+    {
+      "id": "5728fa576aef051400154924",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Mary Leakey and Louis Leakey",
+      "gold_answer": "Mary Leakey and Louis Leakey",
+      "pred_question": "Who were responsible for the preliminary archaeological research at Olorgesailie and Hyrax Hill?",
+      "qa_score": 0.9754207134246826
+    },
+    {
+      "id": "5725c91e38643c19005acced",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "no tentacles but many more comb-rows than modern forms",
+      "gold_answer": "515 million years",
+      "pred_question": "What fossils thought to represent ctenophores have been found in lagerstätten as far back as the early Cambrian?",
+      "qa_score": 0.2676307260990143
+    },
+    {
+      "id": "5706094b52bb8914006897e1",
+      "em": 0,
+      "f1": 0.18181818181818182,
+      "qa_answer": "diverse and one of the largest in the United States",
+      "gold_answer": "diverse",
+      "pred_question": "What is Southern California's economy?",
+      "qa_score": 0.33765169978141785
+    },
+    {
+      "id": "5726bc1add62a815002e8ea8",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Finanzamt Köln Altstadt v Schumacker",
+      "gold_answer": "Gaelic",
+      "pred_question": "The Court of Justice held that it contravened TFEU art 45 to deny tax benefits to a man who worked in Germany.",
+      "qa_score": 0.4025178219890222
+    },
+    {
+      "id": "572861cc4b864d1900164962",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Several thousand",
+      "gold_answer": "Several thousand",
+      "pred_question": "How many major and non-major undergraduates enroll annually in creative and performing arts classes?",
+      "qa_score": 0.9716835021972656
+    },
+    {
+      "id": "5726fb18dd62a815002e96cf",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The sculpture collection at the V&A",
+      "gold_answer": "22,000",
+      "pred_question": "What is the most comprehensive holding of post-classical European sculpture in the world?",
+      "qa_score": 0.3876354694366455
+    },
+    {
+      "id": "56e751fb00c9c71400d76fa8",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The objective",
+      "gold_answer": "informal",
+      "pred_question": "What approach is typically accomplished through either an informal or formal approach to learning?",
+      "qa_score": 0.48649197816848755
+    },
+    {
+      "id": "57281bbc2ca10214002d9dfb",
+      "em": 0,
+      "f1": 0.2,
+      "qa_answer": "All the incidental music",
+      "gold_answer": "the BBC National Orchestra of Wales",
+      "pred_question": "What music has been performed by the BBC National Orchestra of Wales from the 2005 Christmas episode \"The Christmas Invasion\" onwards?",
+      "qa_score": 0.20463018119335175
+    },
+    {
+      "id": "56e0cbf3231d4119001ac3ac",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "on a Military Frontier scholarship",
+      "gold_answer": "1875",
+      "pred_question": "In 1875, Tesla enrolled at Austrian Polytechnic in Graz, Austria, on a Military Frontier scholarship.",
+      "qa_score": 0.0014131827047094703
+    },
+    {
+      "id": "56f8507fa6d7ea1400e1754e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Bible",
+      "gold_answer": "Divine Right of Kings",
+      "pred_question": "What doctrine forms the foundation for the doctrine known as the Divine Right of Kings?",
+      "qa_score": 0.5718438029289246
+    },
+    {
+      "id": "5726241189a1e219009ac2e0",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Macroeconomic problems",
+      "gold_answer": "Macroeconomic problems",
+      "pred_question": "What were both inflationary and deflationary impacts?",
+      "qa_score": 0.9931696371932048
+    },
+    {
+      "id": "5729fe5c3f37b31900478630",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "attacks part of the body",
+      "gold_answer": "self and non-self",
+      "pred_question": "What is the immune system failing to properly distinguish between self and non-self?",
+      "qa_score": 0.8474576473236084
+    },
+    {
+      "id": "572ff5fcb2c2fd140056865b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Leidse Rijn",
+      "gold_answer": "Old Rhine",
+      "pred_question": "What branch of the Rhine is called Oude Rijn?",
+      "qa_score": 0.3281377851963043
+    },
+    {
+      "id": "57277cf6dd62a815002e9e78",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Red",
+      "gold_answer": "the entertainment division",
+      "pred_question": "What ribbons were used to represent the entertainment division?",
+      "qa_score": 0.7050141096115112
+    },
+    {
+      "id": "56e10296cd28a01900c67426",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Wardenclyffe",
+      "gold_answer": "187 feet",
+      "pred_question": "What tower was erected to its full 187 feet (57 m)?",
+      "qa_score": 0.984001215848366
+    },
+    {
+      "id": "5729f1fcaf94a219006aa6d7",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "γδ T cells",
+      "gold_answer": "γδ T cells",
+      "pred_question": "What are the two major subtypes of T cells that recognize intact antigens that are not bound to MHC receptors?",
+      "qa_score": 0.420620858669281
+    },
+    {
+      "id": "56d997cddc89441400fdb588",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "45",
+      "gold_answer": "45",
+      "pred_question": "How many touchdowns did Pro Bowl quarterback Cam Newton throw for 3,837 yards and rushing for 636?",
+      "qa_score": 0.8094760179519653
+    },
+    {
+      "id": "5725cf3238643c19005acd63",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "hostile environment",
+      "gold_answer": "agriculture and silviculture",
+      "pred_question": "The development of this fertile soil allowed agriculture and silviculture in the previously hostile environment.",
+      "qa_score": 0.032246410846710205
+    },
+    {
+      "id": "572977fbaf94a219006aa4b1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "If a plant is injured, or something else causes a plant cell",
+      "gold_answer": "chloroplasts and other plastids",
+      "pred_question": "What can chloroplasts turn back into proplastids?",
+      "qa_score": 0.182933047413826
+    },
+    {
+      "id": "56e76de800c9c71400d77123",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "primary education (primary schools)",
+      "gold_answer": "three",
+      "pred_question": "What are the three-tier models of education in Australia?",
+      "qa_score": 0.06779858469963074
+    },
+    {
+      "id": "572a1ba46aef051400155292",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "some",
+      "gold_answer": "government land",
+      "pred_question": "How many countries can it take over 200 steps and up to 14 years to build on government land?",
+      "qa_score": 0.5575473308563232
+    },
+    {
+      "id": "5726a9ed5951b619008f796d",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "daughters were not",
+      "gold_answer": "six",
+      "pred_question": "What were the names of at least six daughters?",
+      "qa_score": 0.1268029510974884
+    },
+    {
+      "id": "5725c63438643c19005acca1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "43",
+      "gold_answer": "1,600 miles",
+      "pred_question": "What are an average 182 million tons of dust windblown out of the Sahara each year?",
+      "qa_score": 0.10058572143316269
+    },
+    {
+      "id": "573027d6a23a5019007fcea0",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Osama bin Laden",
+      "gold_answer": "Osama bin Laden",
+      "pred_question": "What did the NIF regime harbored for a time before 9/11?",
+      "qa_score": 0.9970361176456208
+    },
+    {
+      "id": "5726d9935951b619008f7ff1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Pharmacists",
+      "gold_answer": "specialised education and training",
+      "pred_question": "What are healthcare professionals with specialised education and training who perform various roles to ensure optimal health outcomes for their patients through the quality use of medicines?",
+      "qa_score": 0.9990532063384308
+    },
+    {
+      "id": "5726bf135951b619008f7cea",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Qara Khitai",
+      "gold_answer": "west of Kashgar",
+      "pred_question": "What was Kuchlug's army defeated west of Kashgar?",
+      "qa_score": 0.9220063476495852
+    },
+    {
+      "id": "56e1cbe2cd28a01900c67bad",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "squaring",
+      "gold_answer": "multiplying two integers",
+      "pred_question": "What can an algorithm for multiplying two integers be used to square an integer?",
+      "qa_score": 0.31059545278549194
+    },
+    {
+      "id": "5725c6dcec44d21400f3d532",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "to monitor",
+      "gold_answer": "Golovin",
+      "pred_question": "Why hired Golovin to chair his own \"Space Vehicle Panel\"",
+      "qa_score": 0.08774981647729874
+    },
+    {
+      "id": "572828383acd2414000df5c5",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "The Curse of the Daleks",
+      "gold_answer": "The Curse of the Daleks",
+      "pred_question": "What stage play did Terry Nation write?",
+      "qa_score": 0.976485315568425
+    },
+    {
+      "id": "56bebb293aeaaa14008c9304",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "San Jose State practice facility and stayed at the San Jose Marriott",
+      "gold_answer": "Stanford University",
+      "pred_question": "What did the Broncos practiced at Stanford University?",
+      "qa_score": 0.10037200152873993
+    },
+    {
+      "id": "573407d7d058e614000b6815",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "continued ownership of their property",
+      "gold_answer": "General Amherst.",
+      "pred_question": "What was Vaudreuil's request that any French residents who chose to remain in the colony would be given freedom to continue worshiping in their Roman Catholic tradition?",
+      "qa_score": 0.1830662488937378
+    },
+    {
+      "id": "5730069004bcaa1900d7702e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "river IJssel",
+      "gold_answer": "Meuse estuary",
+      "pred_question": "What branches Waal and Nederrijn-Lek discharge to the North Sea?",
+      "qa_score": 0.3401147696422413
+    },
+    {
+      "id": "5726a9ff708984140094cd4e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The interior",
+      "gold_answer": "marble",
+      "pred_question": "What interior makes much use of marble in the entrance hall and flanking staircases?",
+      "qa_score": 0.2590844929218292
+    },
+    {
+      "id": "5730ebe0a5e9cc1400cdbae5",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "11.4 million",
+      "gold_answer": "11.4 million",
+      "pred_question": "By the opening of the 2008 General Conference, total UMC membership was estimated at 11.4 million, with about 7.9 million in the U.S. and 3.5 million overseas.",
+      "qa_score": 0.2937470078468323
+    },
+    {
+      "id": "571cd88ddd7acb1400e4c18f",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "oxygen gas",
+      "gold_answer": "exothermic",
+      "pred_question": "What is a steady stream of oxygen produced by the exothermic reaction?",
+      "qa_score": 0.5548408031463623
+    },
+    {
+      "id": "5732b6b5328d981900602021",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Warsaw",
+      "gold_answer": "Warsaw",
+      "pred_question": "Which city limits cover 516.9 square kilometres?",
+      "qa_score": 0.9455466457293369
+    },
+    {
+      "id": "57280cac2ca10214002d9cac",
+      "em": 0,
+      "f1": 0.25,
+      "qa_answer": "To celebrate the 40th anniversary in 2003",
+      "gold_answer": "2003",
+      "pred_question": "To celebrate the 40th anniversary in 2003, an audio drama titled Zagreus featuring Paul McGann, Colin Baker, Sylvester McCoy and Peter Davison was released with additional archive recordings of Jon Pertwee.",
+      "qa_score": 0.019990550354123116
+    },
+    {
+      "id": "57266193dd62a815002e832c",
+      "em": 0,
+      "f1": 0.16666666666666666,
+      "qa_answer": "a layered model of the Earth",
+      "gold_answer": "the outer core and inner core",
+      "pred_question": "What were early advances in this field showing the existence of a liquid outer core (where shear waves were not able to propagate)?",
+      "qa_score": 0.2157476246356964
+    },
+    {
+      "id": "5728202c4b864d19001644ef",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "Gandhi's acts",
+      "gold_answer": "Gandhi's",
+      "pred_question": "What has been described as revolutionary civil disobedience?",
+      "qa_score": 0.9239872097969055
+    },
+    {
+      "id": "56e756bc37bdd419002c3e96",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Co-teaching",
+      "gold_answer": "two or more",
+      "pred_question": "What are two or more teachers working harmoniously to fulfill the needs of every student in the classroom?",
+      "qa_score": 0.632901524862973
+    },
+    {
+      "id": "56f84b68aef2371900625fa9",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "church practices",
+      "gold_answer": "Zwickau prophets",
+      "pred_question": "What were the Zwickau prophets banishing?",
+      "qa_score": 0.08549197763204575
+    },
+    {
+      "id": "56bec9e83aeaaa14008c9460",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "39",
+      "gold_answer": "39",
+      "pred_question": "What was Gano's field goal?",
+      "qa_score": 0.8657113313674927
+    },
+    {
+      "id": "56bec4a33aeaaa14008c93b2",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Westwood One will carry the game throughout North America",
+      "gold_answer": "Kevin Harlan",
+      "pred_question": "What will Westwood One carry the game throughout North America?",
+      "qa_score": 0.06164579838514328
+    },
+    {
+      "id": "572671a5f1498d1400e8dfe6",
+      "em": 0,
+      "f1": 0.8333333333333333,
+      "qa_answer": "Maria Fold and Thrust Belt",
+      "gold_answer": "within the Maria Fold and Thrust Belt",
+      "pred_question": "What location is the entire sedimentary sequence of the Grand Canyon?",
+      "qa_score": 0.8570127487182617
+    },
+    {
+      "id": "57287338ff5b5019007da233",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "In 1351",
+      "gold_answer": "the Red Turban Rebellion",
+      "pred_question": "In 1351, the Red Turban Rebellion started and grew into a nationwide uprising.",
+      "qa_score": 0.07708992809057236
+    },
+    {
+      "id": "56e7550700c9c71400d76fc8",
+      "em": 0,
+      "f1": 0.25,
+      "qa_answer": "ten or more different teachers",
+      "gold_answer": "different subject specialists",
+      "pred_question": "In secondary schools they will be taught by different subject specialists each session during the week and may have ten or more different teachers.",
+      "qa_score": 0.09098608046770096
+    },
+    {
+      "id": "56e11d8ecd28a01900c675f1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Tesla",
+      "gold_answer": "more than 48 hours",
+      "pred_question": "Who spent more than 48 hours at a gaming table?",
+      "qa_score": 0.8729501601492302
+    },
+    {
+      "id": "5725cb4a89a1e219009abeca",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Command Module (CM) was the conical crew cabin",
+      "gold_answer": "ablative heat shield",
+      "pred_question": "What was the exterior covered with an ablative heat shield?",
+      "qa_score": 0.1408255249261856
+    },
+    {
+      "id": "57297991af94a219006aa4b8",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "significantly lower",
+      "gold_answer": "environmental risks",
+      "pred_question": "What are the environmental risks of chloroplast transformation?",
+      "qa_score": 0.3258608877658844
+    },
+    {
+      "id": "56f81393aef2371900625dab",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Johann Eck",
+      "gold_answer": "Johann Eck",
+      "pred_question": "Theologian was determined to expose Luther's doctrine in a public forum",
+      "qa_score": 0.9036069512367249
+    },
+    {
+      "id": "5726eb76f1498d1400e8efdb",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "pathogens",
+      "gold_answer": "pathogens, from viruses to parasitic worms",
+      "pred_question": "To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms",
+      "qa_score": 0.3974275588989258
+    },
+    {
+      "id": "572a13841d0469140077973b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "states that with economic development, inequality first increases, then decreases",
+      "gold_answer": "Kuznets curve hypothesis",
+      "pred_question": "What is the \"magical\" Kuznets curve hypothesis?",
+      "qa_score": 0.3829188644886017
+    },
+    {
+      "id": "5726bb645951b619008f7c3e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Ögedei Khan",
+      "gold_answer": "Kaifeng",
+      "pred_question": "What was Genghis Khan's third son, gedei Khan?",
+      "qa_score": 0.8004246452619554
+    },
+    {
+      "id": "57297a276aef051400154f89",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "he verified this up to n = 4",
+      "gold_answer": "Euler",
+      "pred_question": "Why did Pierre de Fermat prove that all numbers of the form 22n + 1 are prime?",
+      "qa_score": 0.15078036487102509
+    },
+    {
+      "id": "57275411dd62a815002e9b34",
+      "em": 0,
+      "f1": 0.6153846153846153,
+      "qa_answer": "As they build phase 1, they design phase 2",
+      "gold_answer": "they design phase 2",
+      "pred_question": "As they build phase 1, they design phase 2.",
+      "qa_score": 0.08404581993818283
+    },
+    {
+      "id": "57302faa04bcaa1900d77314",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Undercover Mosque",
+      "gold_answer": "Londonistan",
+      "pred_question": "What is the term Londonistan?",
+      "qa_score": 0.830232560634613
+    },
+    {
+      "id": "56f8bd509b226e1400dd0ef1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Mark U. Edwards",
+      "gold_answer": "Luther's Last Battles: Politics and Polemics 1531–46",
+      "pred_question": "What is Luther's Last Battles: Politics and Polemics 1531–46 (1983)?",
+      "qa_score": 0.048426419496536255
+    },
+    {
+      "id": "57273d8bf1498d1400e8f4fe",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "buildings, infrastructure and industrial",
+      "gold_answer": "buildings, infrastructure and industrial",
+      "pred_question": "What are the three sectors of construction?",
+      "qa_score": 0.9643051624298096
+    },
+    {
+      "id": "56e122dacd28a01900c6763b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "to push it further",
+      "gold_answer": "pity",
+      "pred_question": "What was Tesla a proponent of an imposed selective breeding version of eugenics?",
+      "qa_score": 0.06148161739110947
+    },
+    {
+      "id": "57286bb84b864d19001649ca",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Kublai Khan",
+      "gold_answer": "southern China",
+      "pred_question": "Who expanded the Grand Canal from southern China to Daidu in the north?",
+      "qa_score": 0.29970388476067455
+    },
+    {
+      "id": "5733f410d058e614000b6663",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Major General Edward Braddock",
+      "gold_answer": "dislodge the French",
+      "pred_question": "What did the Duke of Newcastle decide to send an army expedition the following year to dislodge the French?",
+      "qa_score": 0.8456566333770752
+    },
+    {
+      "id": "5728202c4b864d19001644ec",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "Non-revolutionary civil disobedience",
+      "gold_answer": "Revolutionary civil disobedience",
+      "pred_question": "What is a simple disobedience of laws on the grounds that they are judged \"wrong\" by an individual conscience?",
+      "qa_score": 0.9585104755751672
+    },
+    {
+      "id": "57268f05dd62a815002e8991",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "515 million years ago, is very similar to Vendobionta",
+      "gold_answer": "Cambrian sessile frond-like fossil Stromatoveris",
+      "pred_question": "What was the early Cambrian sessile frond-like fossil Stromatoveris from China's Chengjiang lagerstätte?",
+      "qa_score": 0.18316194415092468
+    },
+    {
+      "id": "56d71ed50d65d2140019837d",
+      "em": 0,
+      "f1": 0.125,
+      "qa_answer": "as part of a cycle between the three main broadcast television partners of the NFL",
+      "gold_answer": "three",
+      "pred_question": "In the United States, the game was televised by CBS, as part of a cycle between the three main broadcast television partners of the NFL",
+      "qa_score": 0.1546357423067093
+    },
+    {
+      "id": "5726b879708984140094cf05",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Wang Khan",
+      "gold_answer": "Wang Khan",
+      "pred_question": "What was his father's ally, his son Jochi?",
+      "qa_score": 0.9499662518501282
+    },
+    {
+      "id": "571cb27fdd7acb1400e4c135",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "what the climate was like millions of years ago",
+      "gold_answer": "oxygen-18",
+      "pred_question": "What is the ratio of oxygen-18 and oxygen-16 in the shells and skeletons of marine organisms?",
+      "qa_score": 0.2362213283777237
+    },
+    {
+      "id": "5729de24af94a219006aa68d",
+      "em": 0,
+      "f1": 0.125,
+      "qa_answer": "expected to foster technological progress and thus have a more positive impact on economic growth",
+      "gold_answer": "positive",
+      "pred_question": "What is the impact of the former type of entrepreneurialism?",
+      "qa_score": 0.06068573147058487
+    },
+    {
+      "id": "5727f16c3acd2414000df05d",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "boom-and-bust cycles",
+      "gold_answer": "boom-and-bust cycles",
+      "pred_question": "What had the widening disparity between the U.S.'s wealthiest citizens and the rest of the nation slowed its recovery from the 2008-2009 recession?",
+      "qa_score": 0.953628420829773
+    },
+    {
+      "id": "5725d2ef271a42140099d256",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "S-IVB-200",
+      "gold_answer": "200,000 lbf",
+      "pred_question": "What was the first stage of the S-IV?",
+      "qa_score": 0.5164257287979126
+    },
+    {
+      "id": "5727705f5951b619008f89f6",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "The Jetsons",
+      "gold_answer": "The Jetsons",
+      "pred_question": "What was the first television series to be broadcast in color on the network?",
+      "qa_score": 0.8758171796798706
+    },
+    {
+      "id": "56e12477e3433e1400422c5e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "\"Science and Discovery are the great Forces",
+      "gold_answer": "post-World War I",
+      "pred_question": "What was Tesla's predictions about the relevant issues of a post-World War I environment?",
+      "qa_score": 0.006166182924062014
+    },
+    {
+      "id": "5726a4a9708984140094ccb8",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Begter",
+      "gold_answer": "Hoelun",
+      "pred_question": "What was Temüjin's older half-brother?",
+      "qa_score": 0.640162378349487
+    },
+    {
+      "id": "572998673f37b319004784d5",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "prime numbers",
+      "gold_answer": "cicadas",
+      "pred_question": "What is the evolutionary strategy used by cicadas of the genus Magicicada?",
+      "qa_score": 0.8670687675476074
+    },
+    {
+      "id": "57275e125951b619008f88d9",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Toronto",
+      "gold_answer": "John Bassett",
+      "pred_question": "In 1960, Canadian entrepreneur John Bassett sought the help of ABC to launch the station.",
+      "qa_score": 0.024368522688746452
+    },
+    {
+      "id": "57337f6ad058e614000b5bcb",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "in 1945 – only 420,000",
+      "gold_answer": "1,300,000",
+      "pred_question": "In 1939, c. 1,300,000 people lived in Warsaw, but in 1945 – only 420,000.",
+      "qa_score": 0.14322617650032043
+    },
+    {
+      "id": "572a019f3f37b31900478643",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "type II",
+      "gold_answer": "enzymes",
+      "pred_question": "What type of secretion system do pathogens digest?",
+      "qa_score": 0.6641972661018372
+    },
+    {
+      "id": "572658daf1498d1400e8dcaf",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "microscopic colloblasts that capture prey by sticking to it",
+      "gold_answer": "three types of movement",
+      "pred_question": "The tentacles and tentilla are densely covered with microscopic colloblasts that capture prey by sticking to it.",
+      "qa_score": 0.0360851027071476
+    },
+    {
+      "id": "5710e9f8a58dae1900cd6b30",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Jacksonville, Florida",
+      "gold_answer": "Jacksonville",
+      "pred_question": "What is today the small colony of Fort Caroline?",
+      "qa_score": 0.810567319393158
+    },
+    {
+      "id": "56e769dc00c9c71400d770eb",
+      "em": 0,
+      "f1": 0.3636363636363636,
+      "qa_answer": "Fears of being labelled a pedophile",
+      "gold_answer": "a shortage of male teachers",
+      "pred_question": "What has in some jurisdictions reportedly led to a shortage of male teachers?",
+      "qa_score": 0.021431155502796173
+    },
+    {
+      "id": "572a1ba46aef051400155291",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "extra-legal ownership",
+      "gold_answer": "200",
+      "pred_question": "What can take over 200 steps and up to 14 years to build on government land?",
+      "qa_score": 0.8438279628753662
+    },
+    {
+      "id": "56e108abe3433e1400422b0f",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "\"(Tesla) was prophesying or dreaming",
+      "gold_answer": "Émile Girardeau",
+      "pred_question": "What was Tesla wrong in his assumption that high frequency radio waves would penetrate water?",
+      "qa_score": 0.07744444161653519
+    },
+    {
+      "id": "571ce9bddd7acb1400e4c1a0",
+      "em": 0,
+      "f1": 0.16666666666666669,
+      "qa_answer": "Concentrated O\n2 will allow combustion to proceed rapidly and energetically.",
+      "gold_answer": "combustion",
+      "pred_question": "What will Concentrated O 2 allow combustion to proceed rapidly and energetically?",
+      "qa_score": 0.04262816905975342
+    },
+    {
+      "id": "5730b541396df919000962c3",
+      "em": 0,
+      "f1": 0.14285714285714288,
+      "qa_answer": "Its growth was reversed by the loss of the American colonies in 1776",
+      "gold_answer": "1776",
+      "pred_question": "What was the loss of the American colonies in 1776?",
+      "qa_score": 0.14754657447338104
+    },
+    {
+      "id": "56bf3fd53aeaaa14008c9595",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Peyton Manning",
+      "gold_answer": "two",
+      "pred_question": "Who were the first quarterback ever to lead two different teams to multiple Super Bowls?",
+      "qa_score": 0.9991958141326904
+    },
+    {
+      "id": "573399b54776f41900660e66",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "solid economic growth",
+      "gold_answer": "solid economic growth",
+      "pred_question": "What has Warsaw seen many improvements over the past decade?",
+      "qa_score": 0.843664824962616
+    },
+    {
+      "id": "5726d993f1498d1400e8ed1a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Michelangelo's David",
+      "gold_answer": "in a glass case",
+      "pred_question": "What is the Verrocchio replica displayed in a glass case?",
+      "qa_score": 0.5780419707298279
+    },
+    {
+      "id": "5725f239271a42140099d361",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "a format incompatible with broadcast TV",
+      "gold_answer": "Stan Lebar",
+      "pred_question": "What was the moon landing data recorded by a special Apollo TV camera?",
+      "qa_score": 0.36583471298217773
+    },
+    {
+      "id": "56e7770037bdd419002c3fe0",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "£32,583",
+      "gold_answer": "20,427",
+      "pred_question": "How many unpromoted teachers in Scotland earned from £20,427 for a Probationer, up to £32,583 after 6 years teaching?",
+      "qa_score": 0.1768760234117508
+    },
+    {
+      "id": "572facb0a23a5019007fc863",
+      "em": 0,
+      "f1": 0.923076923076923,
+      "qa_answer": "the lack of a Parliament of Scotland",
+      "gold_answer": "lack of a Parliament of Scotland",
+      "pred_question": "What remained an important element in Scottish national identity?",
+      "qa_score": 0.4837203025817871
+    },
+    {
+      "id": "5711607f2419e314009555cf",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "prime mover",
+      "gold_answer": "steam turbine",
+      "pred_question": "What is the Advanced Steam movement?",
+      "qa_score": 0.3329375684261322
+    },
+    {
+      "id": "56de41504396321400ee2716",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "King of Cyprus",
+      "gold_answer": "double coronation",
+      "pred_question": "What was a double coronation?",
+      "qa_score": 0.34294432401657104
+    },
+    {
+      "id": "572ff12e04bcaa1900d76f00",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The rate of erosion equaled the uplift in the region",
+      "gold_answer": "Rhine Gorge",
+      "pred_question": "Why was the Rhine Gorge created by erosion?",
+      "qa_score": 0.21137307584285736
+    },
+    {
+      "id": "5711651050c2381900b54acd",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "to move the fuel from a supply bin (bunker) to the firebox",
+      "gold_answer": "superheaters",
+      "pred_question": "When coal is used, a chain or screw stoking mechanism may be included to increase the draft for fireboxes.",
+      "qa_score": 0.1468711942434311
+    },
+    {
+      "id": "57302cd004bcaa1900d772d9",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "al-Qaeda",
+      "gold_answer": "March 2011",
+      "pred_question": "What was the Iraqi insurgency that followed the 2003 invasion of Iraq by Western forces?",
+      "qa_score": 0.5029667615890503
+    },
+    {
+      "id": "571c97e2dd7acb1400e4c120",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Oxygen",
+      "gold_answer": "0.9%",
+      "pred_question": "What is the most abundant chemical element by mass in the Earth's biosphere?",
+      "qa_score": 0.8812196883118304
+    },
+    {
+      "id": "5725c2a038643c19005acc6b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "skilled managers",
+      "gold_answer": "Air Force missile projects",
+      "pred_question": "What is Mueller's industry experience on Air Force missile projects?",
+      "qa_score": 0.3269592225551605
+    },
+    {
+      "id": "5726afeb708984140094cdd9",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "FuturePlan",
+      "gold_answer": "FuturePlan",
+      "pred_question": "What was the first redesign of the British Galleries?",
+      "qa_score": 0.7748069259614567
+    },
+    {
+      "id": "56f88025aef2371900626122",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Eyn geystlich Gesangk Buchleyn",
+      "gold_answer": "Eyn geystlich Gesangk Buchleyn",
+      "pred_question": "Who published the first choral hymnal with settings by Johann Walter?",
+      "qa_score": 0.9791484526940621
+    },
+    {
+      "id": "5730aef38ab72b1400f9c683",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "German New Guinea",
+      "gold_answer": "prestige",
+      "pred_question": "What was the German colonial empire built in Africa and the South Pacific in 1883–84?",
+      "qa_score": 0.7877106666564941
+    },
+    {
+      "id": "56d2045de7d4791d009025f6",
+      "em": 0,
+      "f1": 0.7499999999999999,
+      "qa_answer": "denied the New England Patriots",
+      "gold_answer": "New England Patriots",
+      "pred_question": "What did the Broncos finish the regular season with a 12–4 record?",
+      "qa_score": 0.06066134199500084
+    },
+    {
+      "id": "57265e97708984140094c3c4",
+      "em": 0,
+      "f1": 0.4,
+      "qa_answer": "ribbon-shaped planktonic animals",
+      "gold_answer": "belt animals",
+      "pred_question": "What are the Cestida (\"belt animals\")?",
+      "qa_score": 0.6182708144187927
+    },
+    {
+      "id": "56f86d30a6d7ea1400e17606",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Bible",
+      "gold_answer": "northern and southern",
+      "pred_question": "What was Luther's translation of German spoken at the Saxon chancellery?",
+      "qa_score": 0.4621778726577759
+    },
+    {
+      "id": "56f7e9caaef2371900625c56",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "University of Erfurt",
+      "gold_answer": "University of Erfurt",
+      "pred_question": "In 1501, at the age of 19, entered the University of Erfurt, which he later described as a beerhouse and whorehouse.",
+      "qa_score": 0.09577389061450958
+    },
+    {
+      "id": "57097d63ed30961900e841fd",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "both BSkyB and Virgin Media",
+      "gold_answer": "no",
+      "pred_question": "Do you agree to terminate all High Court proceedings against each other relating to the carriage of their respective basic channels?",
+      "qa_score": 0.10462438315153122
+    },
+    {
+      "id": "56e1e9dfe3433e14004231ff",
+      "em": 0,
+      "f1": 0.3636363636363636,
+      "qa_answer": "the polynomial time hierarchy collapses to its second level",
+      "gold_answer": "second level",
+      "pred_question": "If graph isomorphism is NP-complete, the polynomial time hierarchy collapses to its second level.",
+      "qa_score": 0.31122392416000366
+    },
+    {
+      "id": "56d9a6b4dc89441400fdb6a1",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Panthers",
+      "gold_answer": "San Jose Marriott.",
+      "pred_question": "What stayed at the San Jose State practice facility?",
+      "qa_score": 0.47106224298477173
+    },
+    {
+      "id": "56f7fde8a6d7ea1400e17367",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "In 1516",
+      "gold_answer": "1516",
+      "pred_question": "In 1516, Johann Tetzel was sent to Germany by the Roman Catholic Church to sell indulgences to raise money to rebuild St. Peter's Basilica in Rome",
+      "qa_score": 0.013685337267816067
+    },
+    {
+      "id": "56d9992fdc89441400fdb59f",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Kuechly",
+      "gold_answer": "Luke Kuechly.",
+      "pred_question": "Who led the Panthers in tackles?",
+      "qa_score": 0.9216527773787675
+    },
+    {
+      "id": "57275bfb708984140094dc9b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "drama",
+      "gold_answer": "ten seasons",
+      "pred_question": "What did NYPD Blue become known for its boundary pushing of network television standards?",
+      "qa_score": 0.38528239727020264
+    },
+    {
+      "id": "5725d94bec44d21400f3d69b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "In December 1966",
+      "gold_answer": "canceled",
+      "pred_question": "In December 1966, the AS-205 mission was canceled, since the validation of the CSM would be accomplished on the 14-day first flight.",
+      "qa_score": 0.03212914615869522
+    },
+    {
+      "id": "573083dc2461fd1900a9ce6e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "some form of colonialism",
+      "gold_answer": "political focus",
+      "pred_question": "What does imperialism include?",
+      "qa_score": 0.24484550952911377
+    },
+    {
+      "id": "57269fab5951b619008f780b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "John Dunn",
+      "gold_answer": "Newcastle",
+      "pred_question": "Who lived and worked in the city?",
+      "qa_score": 0.9782214164733887
+    },
+    {
+      "id": "56d6f4030d65d2140019829e",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "John Fox",
+      "gold_answer": "four",
+      "pred_question": "Who had won four divisional championships in his four years as Broncos head coach?",
+      "qa_score": 0.9968958497047424
+    },
+    {
+      "id": "57097c8fed30961900e841f4",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "subscription",
+      "gold_answer": "often damaging",
+      "pred_question": "What subscription to BSkyB was ‘often damaging’, along with alcohol, tobacco and gambling?",
+      "qa_score": 0.10830925405025482
+    },
+    {
+      "id": "5729f0db6aef051400155128",
+      "em": 0,
+      "f1": 0.25,
+      "qa_answer": "To date, at least 40,000 plant species",
+      "gold_answer": "40,000",
+      "pred_question": "To date, at least 40,000 plant species, 2,200 fishes, 1,294 birds, 427 mammals and 428 amphibians have been scientifically classified in the region.",
+      "qa_score": 0.021359900012612343
+    },
+    {
+      "id": "5733a1854776f41900660f0e",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "60",
+      "gold_answer": "60",
+      "pred_question": "What rooms host a permanent exhibition of the history of Warsaw dating back to 1936?",
+      "qa_score": 0.5895546674728394
+    },
+    {
+      "id": "56e7788200c9c71400d77184",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "growing",
+      "gold_answer": "concern",
+      "pred_question": "What causes of concern are that attacks on teachers in Welsh schools which reached an all-time high between 2005 and 2010?",
+      "qa_score": 0.44971755146980286
+    },
+    {
+      "id": "5727482bf1498d1400e8f5a4",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "parochial schools",
+      "gold_answer": "Roman Catholic",
+      "pred_question": "What term is often used to denote Roman Catholic schools?",
+      "qa_score": 0.9702015675647999
+    },
+    {
+      "id": "572968cf1d046914007793cd",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "plastome",
+      "gold_answer": "1962",
+      "pred_question": "What was its existence first proved in 1962?",
+      "qa_score": 0.13438402116298676
+    },
+    {
+      "id": "56e74af500c9c71400d76f67",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "the Quran, Torah or Bible",
+      "gold_answer": "the Quran, Torah or Bible",
+      "pred_question": "What religious texts do religious teachers teach?",
+      "qa_score": 0.46728652715682983
+    },
+    {
+      "id": "56ddde6b9a695914005b9629",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "The Normans",
+      "gold_answer": "10th and 11th centuries",
+      "pred_question": "What were the people who in the 10th and 11th centuries gave their name to Normandy?",
+      "qa_score": 0.6881798329923186
+    },
+    {
+      "id": "57283db6ff5b5019007d9fbc",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Chicago school of economics, the Chicago school of sociology",
+      "gold_answer": "various academic disciplines",
+      "pred_question": "What are the University of Chicago scholars who have played a major role in the development of various academic disciplines?",
+      "qa_score": 0.03915540874004364
+    },
+    {
+      "id": "5729f24baf94a219006aa6e0",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Economist Simon Kuznets",
+      "gold_answer": "more wealth",
+      "pred_question": "What is a country with low levels of development having relatively equal distributions of wealth?",
+      "qa_score": 0.03611069545149803
+    },
+    {
+      "id": "57276d7f708984140094dd3f",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "WYTV",
+      "gold_answer": "Youngstown",
+      "pred_question": "What was WKST-TV in Youngstown, Ohio?",
+      "qa_score": 0.9948668279066624
+    },
+    {
+      "id": "5729293d3f37b319004780a0",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Kenya",
+      "gold_answer": "Cricket",
+      "pred_question": "Who has competed in the Cricket World Cup since 1996?",
+      "qa_score": 0.9120488865301013
+    },
+    {
+      "id": "5730a0778ab72b1400f9c60c",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "colonial control",
+      "gold_answer": "less civilized",
+      "pred_question": "What were people living in tropical environments seen as \"less civilized\"?",
+      "qa_score": 0.43536531925201416
+    },
+    {
+      "id": "56e1d9fee3433e14004231ce",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "class",
+      "gold_answer": "NP",
+      "pred_question": "What class of NP-complete problems contains the most difficult problems in C?",
+      "qa_score": 0.2604738473892212
+    },
+    {
+      "id": "572a0d21af94a219006aa783",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "deep financial 'fault lines",
+      "gold_answer": "economist",
+      "pred_question": "What does the Central Banking economist argue that \"systematic economic inequalities have created deep financial 'fault lines' that have made [financial] crises more likely to happen than in the past\"",
+      "qa_score": 0.011620022356510162
+    },
+    {
+      "id": "572909ebaf94a219006a9fc9",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "The Judiciary is independent",
+      "gold_answer": "The Judiciary",
+      "pred_question": "What is the Judiciary independent of the executive and the legislature?",
+      "qa_score": 0.18565133213996887
+    },
+    {
+      "id": "571cda1bdd7acb1400e4c198",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "liquid",
+      "gold_answer": "insulated tankers",
+      "pred_question": "What is oxygen transported in bulk in specially insulated tankers?",
+      "qa_score": 0.9366171360015869
+    },
+    {
+      "id": "5733f062d058e614000b6634",
+      "em": 0,
+      "f1": 0.4285714285714285,
+      "qa_answer": "the letter from Dinwiddie",
+      "gold_answer": "Dinwiddie demanding an immediate French withdrawal from the Ohio Country",
+      "pred_question": "What letter did Jacques Legardeur de Saint-Pierre send to Washington?",
+      "qa_score": 0.43396830558776855
+    },
+    {
+      "id": "56d729180d65d21400198428",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "qa_answer": "11:28 left",
+      "gold_answer": "11:28",
+      "pred_question": "What did the Broncos receiver receive in the second quarter?",
+      "qa_score": 0.5767911672592163
+    },
+    {
+      "id": "572957ad1d046914007792db",
+      "em": 0,
+      "f1": 0.4,
+      "qa_answer": "lipid-bilayer membranes that surround all chloroplasts",
+      "gold_answer": "two innermost lipid-bilayer membranes",
+      "pred_question": "What are the outer and inner membranes of the ancestral cyanobacterium's gram negative cell wall?",
+      "qa_score": 0.5276253819465637
+    },
+    {
+      "id": "57265d08708984140094c39b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "seafloor spreading",
+      "gold_answer": "the 1960s",
+      "pred_question": "In the 1960s, a series of discoveries, the most important of which was seafloor spreading, showed that the Earth's lithosphere, which includes the crust and rigid uppermost portion of the upper mantle, is separated into tectonic plates that move across the plastically de",
+      "qa_score": 0.9342389143421315
+    },
+    {
+      "id": "5727f2583acd2414000df08b",
+      "em": 0,
+      "f1": 0.4,
+      "qa_answer": "chameleon circuit",
+      "gold_answer": "due to a malfunction in the chameleon circuit",
+      "pred_question": "What is the TARDIS fixed as a blue British Police box?",
+      "qa_score": 0.2583174407482147
+    },
+    {
+      "id": "56d71d150d65d2140019836e",
+      "em": 0,
+      "f1": 0.5,
+      "qa_answer": "The Super Bowl 50 Host Committee",
+      "gold_answer": "the most giving Super Bowl ever",
+      "pred_question": "What super Bowl 50 Host Committee has vowed to be \"the most giving Super Bowl ever\"",
+      "qa_score": 0.7687597274780273
+    },
+    {
+      "id": "57337f6ad058e614000b5bcf",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Warsaw area enlargement",
+      "gold_answer": "residency registration",
+      "pred_question": "What was the first remedial measure in the Warsaw area enlargement (1951) – but the city authorities were still forced to introduce residency registration limitations?",
+      "qa_score": 0.7329766154289246
+    },
+    {
+      "id": "57284d484b864d1900164901",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Laird Bell Law Quadrangle",
+      "gold_answer": "Eero Saarinen",
+      "pred_question": "In 1955, was Eero Saarinen contracted to develop a second master plan, which led to the construction of buildings both north and south of the Midway?",
+      "qa_score": 0.02629692666232586
+    },
+    {
+      "id": "572a0f073f37b31900478681",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "tyrosinase",
+      "gold_answer": "tyrosinase",
+      "pred_question": "What is an enzyme called tyrosinase that transforms certain skin cells into tumors called melanomas?",
+      "qa_score": 0.7048284346237779
+    },
+    {
+      "id": "572758e0f1498d1400e8f6b0",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Government funding for religious schools is either subject to restrictions or possibly forbidden",
+      "gold_answer": "Blaine",
+      "pred_question": "What is the Establishment Clause of the First Amendment or individual state Blaine Amendments?",
+      "qa_score": 0.16663089394569397
+    },
+    {
+      "id": "56e1c7e2cd28a01900c67b76",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "the space hierarchy theorem",
+      "gold_answer": "PSPACE",
+      "pred_question": "What is the time hierarchy theorem telling us that L is strictly contained in EXPTIME?",
+      "qa_score": 0.6770861148834229
+    },
+    {
+      "id": "57286dfa2ca10214002da334",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Trần dynasty",
+      "gold_answer": "Annam (Dai Viet)",
+      "pred_question": "What was the Tran dynasty which ruled Annam (Dai Viet)?",
+      "qa_score": 0.2954382648167666
+    },
+    {
+      "id": "5727ef664b864d1900164062",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "steeper",
+      "gold_answer": "social spending",
+      "pred_question": "What tax progressivity applied to social spending can result in a more equal distribution of income across the board?",
+      "qa_score": 0.5187596938267234
+    },
+    {
+      "id": "56e0c1617aa994140058e6d5",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Higher Real Gymnasium",
+      "gold_answer": "1870",
+      "pred_question": "In 1870, Tesla moved to Karlovac, to attend school at the Higher Real Gymnasium, where he was profoundly influenced by a math teacher Martin Sekuli.",
+      "qa_score": 0.07051877677440643
+    },
+    {
+      "id": "56e057e1231d4119001ac044",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Thomas Commerford Martin",
+      "gold_answer": "American Institute of Electrical Engineers",
+      "pred_question": "What arranged for Tesla to demonstrate his alternating current system?",
+      "qa_score": 0.12624920904636383
+    },
+    {
+      "id": "572699b55951b619008f7790",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Roman Catholic St. Mary's",
+      "gold_answer": "1474",
+      "pred_question": "What is the Anglican St. Nicholas lantern tower of 1474 designed by Augustus Welby Pugin?",
+      "qa_score": 0.47804945707321167
+    },
+    {
+      "id": "5730d597f6cb411900e244d6",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "transitional deacon",
+      "gold_answer": "1996",
+      "pred_question": "What was the ordination order abolished at the 1996 General Conference?",
+      "qa_score": 0.9417997002601624
+    },
+    {
+      "id": "56f884cba6d7ea1400e17709",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Johann Gerhard",
+      "gold_answer": "Gerhard. Lessing",
+      "pred_question": "What Luther's teaching about the state of the Christian soul after death differed from the later Lutheran theologians?",
+      "qa_score": 0.9623282551765442
+    },
+    {
+      "id": "56de148dcffd8e1900b4b5bc",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Robert Guiscard",
+      "gold_answer": "Robert Guiscard",
+      "pred_question": "What was his vassal for the Byzantines?",
+      "qa_score": 0.7482265303478925
+    },
+    {
+      "id": "56e777e500c9c71400d77176",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Education",
+      "gold_answer": "Wales",
+      "pred_question": "What is education in Wales differs in certain respects from education elsewhere in the United Kingdom?",
+      "qa_score": 0.13890454173088074
+    },
+    {
+      "id": "57264e66dd62a815002e811c",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "to avoid sinking",
+      "gold_answer": "increase its bulk and decrease its density",
+      "pred_question": "If they enter less dense brackish water, the ciliary rosettes may pump this into the mesoglea to increase its bulk and decrease its density, to avoid sinking.",
+      "qa_score": 0.017910586670041084
+    },
+    {
+      "id": "57376c50c3c5551400e51ecf",
+      "em": 0,
+      "f1": 0.42857142857142855,
+      "qa_answer": "Summing these component forces using vector addition yields the original force",
+      "gold_answer": "the original force",
+      "pred_question": "Summing these component forces using vector addition yields the original force.",
+      "qa_score": 0.13667285442352295
+    },
+    {
+      "id": "57302a3aa23a5019007fced0",
+      "em": 0,
+      "f1": 0.19999999999999998,
+      "qa_answer": "supported by governmental and religious groups in neighboring Pakistan",
+      "gold_answer": "Pakistan",
+      "pred_question": "What were the Taliban spawned by the thousands of madrasahs the Deobandi movement established for impoverished Afghan refugees?",
+      "qa_score": 0.16759617626667023
+    },
+    {
+      "id": "572fe393947a6a140053cdbd",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "length",
+      "gold_answer": "Hoek van Holland",
+      "pred_question": "What length of the Rhine is conventionally measured in \"Rhine-kilometers\" (Rheinkilometer), a scale introduced in 1939",
+      "qa_score": 0.45072054862976074
+    },
+    {
+      "id": "57268d02f1498d1400e8e37b",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "1857",
+      "gold_answer": "late night openings",
+      "pred_question": "In the following year, late night openings were introduced, made possible by the use of gas lighting.",
+      "qa_score": 0.2156907618045807
+    },
+    {
+      "id": "5726d9935951b619008f7fef",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "important",
+      "gold_answer": "optimisation of a drug treatment for an individual",
+      "pred_question": "What role do pharmacists play in optimisation of a drug treatment for an individual?",
+      "qa_score": 0.4172237813472748
+    },
+    {
+      "id": "5730b6592461fd1900a9cfcf",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "The British Empire",
+      "gold_answer": "The British Empire",
+      "pred_question": "What was the largest Empire that the world has ever seen?",
+      "qa_score": 0.6232630014419556
+    },
+    {
+      "id": "57296fd71d04691400779440",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "flattened circular",
+      "gold_answer": "flattened circular",
+      "pred_question": "What type of granal thylakoids do you have?",
+      "qa_score": 0.3395402133464813
+    },
+    {
+      "id": "572647935951b619008f6eca",
+      "em": 0,
+      "f1": 0.7499999999999999,
+      "qa_answer": "Nestorian graves dating to 1338–39",
+      "gold_answer": "dating to 1338–39",
+      "pred_question": "Nestorian graves dating to 1338–39 near Lake Issyk Kul in Kyrgyzstan have inscriptions referring to plague",
+      "qa_score": 0.04824090376496315
+    },
+    {
+      "id": "572a13841d0469140077973c",
+      "em": 0,
+      "f1": 0.16666666666666669,
+      "qa_answer": "states that with economic development, inequality first increases, then decreases",
+      "gold_answer": "first increases",
+      "pred_question": "What is the Kuznets curve hypothesis?",
+      "qa_score": 0.4481554925441742
+    },
+    {
+      "id": "572914441d04691400779026",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "Opposition politicians, human rights groups, and nine Western countries",
+      "gold_answer": "to guard against armed groups",
+      "pred_question": "What supporters of the law suggested was necessary to guard against armed groups?",
+      "qa_score": 0.2646101713180542
+    },
+    {
+      "id": "5730c6d3b54a4f140068cc4c",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "Methodist institutions",
+      "gold_answer": "Methodist institutions",
+      "pred_question": "What saints may be named after a biblical figure (e.g., \"St. James UMC\").",
+      "qa_score": 0.788335382938385
+    },
+    {
+      "id": "5727cff1ff5b5019007d95c4",
+      "em": 1,
+      "f1": 1.0,
+      "qa_answer": "$32 billion",
+      "gold_answer": "$32 billion",
+      "pred_question": "What was it worth in 2011, up from $28 billion in September 2010?",
+      "qa_score": 0.9027383327484131
+    },
+    {
+      "id": "56e1239acd28a01900c67641",
+      "em": 0,
+      "f1": 0.2857142857142857,
+      "qa_answer": "struggle of women toward gender equality",
+      "gold_answer": "women",
+      "pred_question": "What were the ills of the social subservience of women?",
+      "qa_score": 0.5562154054641724
+    },
+    {
+      "id": "56e74e4800c9c71400d76f78",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "teaching profession",
+      "gold_answer": "the public",
+      "pred_question": "What are teachers' colleges generally established to serve and protect the public interest by certifying, governing and enforcing standards of practice?",
+      "qa_score": 0.6715559959411621
+    },
+    {
+      "id": "572fe92204bcaa1900d76e98",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "water level",
+      "gold_answer": "Rhine Gutter",
+      "pred_question": "What is the difference between the Rhine water and Seerhein?",
+      "qa_score": 0.32363829016685486
+    },
+    {
+      "id": "571c91c8dd7acb1400e4c10a",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "dioxygen, O\n2",
+      "gold_answer": "dioxygen",
+      "pred_question": "What is the common allotrope of elemental oxygen on Earth?",
+      "qa_score": 0.6482550612272462
+    },
+    {
+      "id": "5727cebc2ca10214002d96f3",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "crimson",
+      "gold_answer": "1875",
+      "pred_question": "What color was unofficially adopted (in preference to magenta) by an 1875 vote of the student body?",
+      "qa_score": 0.9812120199203491
+    },
+    {
+      "id": "572a0bafaf94a219006aa768",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "marginal utility",
+      "gold_answer": "decreases",
+      "pred_question": "What percentage of wealth per person decreases as a person becomes richer?",
+      "qa_score": 0.47940993309020996
+    },
+    {
+      "id": "572659535951b619008f703f",
+      "em": 0,
+      "f1": 0.12500000000000003,
+      "qa_answer": "affected by the 1981 voluntary export restraints, opened US assembly plants",
+      "gold_answer": "A decade after the 1973",
+      "pred_question": "A decade after the 1973 oil crisis, Honda, Toyota and Nissan, affected by the 1981 voluntary export restraints, opened US assembly plants and established their luxury divisions (Acura, Lexus and Infiniti, respectively) to distinguish themselves from their mass-market brands.",
+      "qa_score": 0.023337237536907196
+    },
+    {
+      "id": "5728fc9e1d04691400778f12",
+      "em": 0,
+      "f1": 0.0,
+      "qa_answer": "protesting the existence of a particular law by breaking that law",
+      "gold_answer": "direct civil disobedience",
+      "pred_question": "What is direct civil disobedience?",
+      "qa_score": 0.7010701298713684
+    }
+  ]
+}
