@@ -10,10 +10,10 @@ if not API_KEY:
     raise ValueError("OpenAI api key is not set")
 
 CLIENT = OpenAI(api_key=API_KEY)
-JUDGE_MODEL = "gpt-4.1-mini"
-INPUT_CSV = "evaluation_results.csv"
-OUTPUT_CSV = "lm_as_judge_results.csv"
-SAMPLE_SIZE = 10 
+JUDGE_MODEL = "gpt-5"
+INPUT_CSV = "./results/generated_samples.csv"
+OUTPUT_CSV = "./results/evaluation_results.csv"
+SAMPLE_SIZE = 200 
 
 QUESTION_TYPES = [
     "readingMatchingFeatures",
@@ -21,8 +21,7 @@ QUESTION_TYPES = [
     "readingShortAnswer",
     "readingTextCompletion",
     "readingTrueFalseNotGiven",
-    "readingYesNoNotGiven",
-    "Other" 
+    "readingYesNoNotGiven"
 ]
 
 def build_judge_prompt(passage, instruction, question, ref_type, intended_diff):
@@ -73,13 +72,28 @@ def build_judge_prompt(passage, instruction, question, ref_type, intended_diff):
 
     4.  **Difficulty Assessment (Easy/Medium/Hard):** What is the *actual* difficulty 
         of answering this question based on the passage?
-        * "Easy": Requires finding a single, direct fact.
-        * "Medium": Requires connecting 1-2 pieces of information or light inference.
-        * "Hard": Requires complex inference, synthesis, or understanding the entire passage's tone.
+        Respond with ONLY one word: Easy, Medium, or Hard.
 
     5.  **Question Type Classification (String):** What is the *actual* question type 
-        of the *Generated Question*? Choose *only* from this list:
+        of the *Generated Instruction* and *Generated Question*? Choose *only* from this list:
         {json.dumps(QUESTION_TYPES)}
+        Pay attention more to *Generated Instruction* column to classify the question type.
+        
+        ### Quick Guide to the Six Types
+        - **readingMatchingFeatures** — *“Match the statements/features to options (people/researchers/years/…).”* Answers often letters; some options may be used more than once.
+        - **readingMultipleChoices** — *“Choose the correct letter A–D / Which of the following…”* Standard multiple-choice with one best answer.
+        - **readingShortAnswer** — WH-questions requiring a short phrase/word/number. Often with a word limit (e.g., “NO MORE THAN X WORDS AND/OR A NUMBER”). 
+        - **readingTextCompletion** — Fill-in-the-gap in **text/sentences**. If the original instruction mentions a more specific format (summary/table/flow-chart), still classify as **readingTextCompletion** here (since the allowed list is limited to six types).
+        - **readingTrueFalseNotGiven** — Verify statements against **facts** in the passage: **True / False / Not Given**.
+        - **readingYesNoNotGiven** — Verify statements against **writer’s views/claims**: **Yes / No / Not Given**.
+
+        **Disambiguation tips:**
+        - If the instruction explicitly says “Match … to …” ⇒ `readingMatchingFeatures`.
+        - If the instruction says “Choose the correct letter / Which of the following …” ⇒ `readingMultipleChoices`.
+        - If it is a direct WH-question expecting a short phrase/number ⇒ `readingShortAnswer`.
+        - If it says “Complete the text/sentences/gaps …” ⇒ `readingTextCompletion`.
+        - **TFNG vs YNNG**: facts/information ⇒ `readingTrueFalseNotGiven`; writer’s views/claims ⇒ `readingYesNoNotGiven`.
+
 
     **OUTPUT (JSON Only):**
     Return *only* the JSON object, starting with {{ and ending with }}.
